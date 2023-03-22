@@ -1,4 +1,0 @@
-[cache]
-    ssh = sshcache
-['remote "sshcache"']
-    url = ssh://tarquini@192.168.1.49/mnt/a6f74bc6-d0b9-45c6-b10c-147d999c56fd/driver_behavior/cache
